@@ -1,4 +1,4 @@
-“北大图书馆”Github传送门：
+北大图书馆Github传送门：
 https://github.com/lib-pku/libpku
 
 浙大项目传送门：
